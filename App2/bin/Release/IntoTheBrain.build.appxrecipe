@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PIETRO</Machine>
+    <WindowsUser>Peter</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\bin\Release\IntoTheBrain.exe">
+      <PackagePath>IntoTheBrain.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\bin\Release\IntoTheBrain.pdb">
+      <PackagePath>IntoTheBrain.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\Assets\avatar.jpg">
+      <PackagePath>Assets\avatar.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\Assets\belsky.jpg">
+      <PackagePath>Assets\belsky.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\Assets\LogoWide.jpg">
+      <PackagePath>Assets\LogoWide.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\DataModel\DataFiles\dataFile.txt">
+      <PackagePath>DataModel\DataFiles\dataFile.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\bin\Release\DeveloperInfoPage.xaml">
+      <PackagePath>DeveloperInfoPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\bin\Release\WorkSpace.xaml">
+      <PackagePath>WorkSpace.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Peter\documents\visual studio 2012\Projects\App2\App2\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
